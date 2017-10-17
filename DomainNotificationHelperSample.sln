@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainNotificationHelperSample.Domain", "DomainNotificationHelperSample.Domain\DomainNotificationHelperSample.Domain.csproj", "{443AB6F6-F03F-4126-8FCA-26317AEE29A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainNotificationHelperSample.Test", "DomainNotificationHelperSample.Test\DomainNotificationHelperSample.Test.csproj", "{3D1B080A-39F1-4676-A58A-908B424302B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomanNotificationSample.Services", "DomanNotificationSample.Services\DomanNotificationSample.Services.csproj", "{F3F787F5-075E-4DCE-9D79-B30350A4B4CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainNotificationSample.Data", "DomainNotificationSample.Data\DomainNotificationSample.Data.csproj", "{B8C7D918-9AAA-4FF7-B5EF-DB30CA7B4F03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainNotificationSample.Api", "DomainNotificationSample.Api\DomainNotificationSample.Api.csproj", "{EFC6210E-EEAA-4E15-BAEC-B86E49D4F6EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{443AB6F6-F03F-4126-8FCA-26317AEE29A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443AB6F6-F03F-4126-8FCA-26317AEE29A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{443AB6F6-F03F-4126-8FCA-26317AEE29A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443AB6F6-F03F-4126-8FCA-26317AEE29A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D1B080A-39F1-4676-A58A-908B424302B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D1B080A-39F1-4676-A58A-908B424302B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D1B080A-39F1-4676-A58A-908B424302B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D1B080A-39F1-4676-A58A-908B424302B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3F787F5-075E-4DCE-9D79-B30350A4B4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F787F5-075E-4DCE-9D79-B30350A4B4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F787F5-075E-4DCE-9D79-B30350A4B4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F787F5-075E-4DCE-9D79-B30350A4B4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8C7D918-9AAA-4FF7-B5EF-DB30CA7B4F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C7D918-9AAA-4FF7-B5EF-DB30CA7B4F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C7D918-9AAA-4FF7-B5EF-DB30CA7B4F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C7D918-9AAA-4FF7-B5EF-DB30CA7B4F03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFC6210E-EEAA-4E15-BAEC-B86E49D4F6EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC6210E-EEAA-4E15-BAEC-B86E49D4F6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC6210E-EEAA-4E15-BAEC-B86E49D4F6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC6210E-EEAA-4E15-BAEC-B86E49D4F6EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9FA04B5-3B78-4B16-B6BE-C0E396A4D748}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://rafaelaugustomiranda.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DomainNotificationHelperSample.Domain\\DomainNotificationHelperSample.Domain.csproj
+		SccProjectName1 = DomainNotificationHelperSample.Domain
+		SccLocalPath1 = DomainNotificationHelperSample.Domain
+		SccProjectUniqueName2 = DomainNotificationHelperSample.Test\\DomainNotificationHelperSample.Test.csproj
+		SccProjectName2 = DomainNotificationHelperSample.Test
+		SccLocalPath2 = DomainNotificationHelperSample.Test
+		SccProjectUniqueName3 = DomainNotificationSample.Api\\DomainNotificationSample.Api.csproj
+		SccProjectName3 = DomainNotificationSample.Api
+		SccLocalPath3 = DomainNotificationSample.Api
+		SccProjectUniqueName4 = DomainNotificationSample.Data\\DomainNotificationSample.Data.csproj
+		SccProjectName4 = DomainNotificationSample.Data
+		SccLocalPath4 = DomainNotificationSample.Data
+		SccProjectUniqueName5 = DomanNotificationSample.Services\\DomanNotificationSample.Services.csproj
+		SccProjectName5 = DomanNotificationSample.Services
+		SccLocalPath5 = DomanNotificationSample.Services
+	EndGlobalSection
+EndGlobal
